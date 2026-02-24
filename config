@@ -2,7 +2,8 @@
   "checkpoints": [
   ],
   "vae": [
-    "https://huggingface.co/vpakarinen/wan22-vae-lora-clip/resolve/main/wan2.2_vae.safetensors"
+    "https://huggingface.co/vpakarinen/wan22-vae-lora-clip/resolve/main/wan2.2_vae.safetensors",
+    "https://huggingface.co/leilei8412/Wan2.1-VAE-upscale2x/resolve/main/Wan2.1_VAE_upscale2x_imageonly_real_v1.safetensors"
   ],
   "unet": [
   ],
